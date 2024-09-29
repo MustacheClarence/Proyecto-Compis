@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Analizador_Lexico_Compiladores\Analizador_Lexico_Compiladores\bin\Debug\net8.0\Analizador_Lexico_Compiladores.exe
+C:\Users\PC\source\repos\Analizador_Lexico_Compiladores\Analizador_Lexico_Compiladores\bin\Debug\net8.0\Analizador_Lexico_Compiladores.deps.json
+C:\Users\PC\source\repos\Analizador_Lexico_Compiladores\Analizador_Lexico_Compiladores\bin\Debug\net8.0\Analizador_Lexico_Compiladores.runtimeconfig.json
+C:\Users\PC\source\repos\Analizador_Lexico_Compiladores\Analizador_Lexico_Compiladores\bin\Debug\net8.0\Analizador_Lexico_Compiladores.dll
+C:\Users\PC\source\repos\Analizador_Lexico_Compiladores\Analizador_Lexico_Compiladores\bin\Debug\net8.0\Analizador_Lexico_Compiladores.pdb
+C:\Users\PC\source\repos\Analizador_Lexico_Compiladores\Analizador_Lexico_Compiladores\obj\Debug\net8.0\Analizador_Lexico_Compiladores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Analizador_Lexico_Compiladores\Analizador_Lexico_Compiladores\obj\Debug\net8.0\Analizador_Lexico_Compiladores.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Analizador_Lexico_Compiladores\Analizador_Lexico_Compiladores\obj\Debug\net8.0\Analizador_Lexico_Compiladores.AssemblyInfo.cs
+C:\Users\PC\source\repos\Analizador_Lexico_Compiladores\Analizador_Lexico_Compiladores\obj\Debug\net8.0\Analizador_Lexico_Compiladores.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Analizador_Lexico_Compiladores\Analizador_Lexico_Compiladores\obj\Debug\net8.0\Analizador_Lexico_Compiladores.dll
+C:\Users\PC\source\repos\Analizador_Lexico_Compiladores\Analizador_Lexico_Compiladores\obj\Debug\net8.0\refint\Analizador_Lexico_Compiladores.dll
+C:\Users\PC\source\repos\Analizador_Lexico_Compiladores\Analizador_Lexico_Compiladores\obj\Debug\net8.0\Analizador_Lexico_Compiladores.pdb
+C:\Users\PC\source\repos\Analizador_Lexico_Compiladores\Analizador_Lexico_Compiladores\obj\Debug\net8.0\Analizador_Lexico_Compiladores.genruntimeconfig.cache
+C:\Users\PC\source\repos\Analizador_Lexico_Compiladores\Analizador_Lexico_Compiladores\obj\Debug\net8.0\ref\Analizador_Lexico_Compiladores.dll
