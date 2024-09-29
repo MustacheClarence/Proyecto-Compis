@@ -37,7 +37,7 @@ namespace Analizador_Lexico_Compiladores
                                     + @"('(?:PROGRAM|INCLUDE|CONST|TYPE|VAR|RECORD|ARRAY|OF|PROCEDURE|FUNCTION|IF|THEN|ELSE|FOR|TO|WHILE|DO|EXIT|END|PRINTLN|READLN|CASE|BREAK|DOWNTO|INTEGER|REAL|BOOLEAN|STRING|BEGIN)')"
                                     + @"(\s*,\s*'(?:PROGRAM|INCLUDE|CONST|TYPE|VAR|RECORD|ARRAY|OF|PROCEDURE|FUNCTION|IF|THEN|ELSE|FOR|TO|WHILE|DO|EXIT|END|PRINTLN|READLN|CASE|BREAK|DOWNTO|INTEGER|REAL|BOOLEAN|STRING|BEGIN)')*\s*;";
             string pattern_productions = @"^\s*PRODUCTIONS\s*"
-                                       + @"((<[\w\s]+>\s*=\s*(.*?\n?)+?\s*;\s*)+)$";
+                                       + @"((<[\w\s]+>\s*=\s*(.*?\n?)+?\s*)+)$";
 
             // Valida secciones requeridas con expresiones regulares usando las variables definidas
             // Valida "COMPILER" y que tenga su identificador
